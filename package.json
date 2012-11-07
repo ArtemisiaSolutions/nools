@@ -1,6 +1,6 @@
 {
-    "name": "nools",
-    "description": "A rules engine for node",
+    "name": "nools-flex",
+    "description": "Fork of nools -> Added capability to manually remove an asserted fact from the workingMemory ( a bit like the opposite of session.modify(fact) )",
     "version": "0.0.4",
     "keywords" : ["rules", "flow", "rules engine", "rools", "drools", "async", "flow control"],
     "repository": {
