@@ -8,7 +8,7 @@
         "url": "git@github.com:C2FO/nools.git"
     },
     "dependencies" : {
-        "comb" : ">=0.1.7"
+        "comb" : "0.1.7"
     },
     "devDependencies" : {
         "it" : ">=0.0.5",
